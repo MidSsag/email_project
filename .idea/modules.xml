@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bootstrap_lesson/.idea/Bootstrap_lesson.iml" filepath="$PROJECT_DIR$/../Bootstrap_lesson/.idea/Bootstrap_lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI_works/.idea/GUI_works.iml" filepath="$PROJECT_DIR$/../GUI_works/.idea/GUI_works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pong/.idea/Game.iml" filepath="$PROJECT_DIR$/../pong/.idea/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hashing_in_SQL/.idea/Hashing_in_SQL.iml" filepath="$PROJECT_DIR$/../Hashing_in_SQL/.idea/Hashing_in_SQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandas_project/US_States/.idea/US_States.iml" filepath="$PROJECT_DIR$/../pandas_project/US_States/.idea/US_States.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_projects/.idea/api_projects.iml" filepath="$PROJECT_DIR$/../api_projects/.idea/api_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../basic_python_works/.idea/basic_python_works.iml" filepath="$PROJECT_DIR$/../basic_python_works/.idea/basic_python_works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bootstrap_projects/.idea/bootstrap_projects.iml" filepath="$PROJECT_DIR$/../bootstrap_projects/.idea/bootstrap_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../email_projects/.idea/email_projects.iml" filepath="$PROJECT_DIR$/../email_projects/.idea/email_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI_works/flash_card/.idea/flash_card.iml" filepath="$PROJECT_DIR$/../GUI_works/flash_card/.idea/flash_card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../github_projects/.idea/github_projects.iml" filepath="$PROJECT_DIR$/../github_projects/.idea/github_projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../higher-lower-flask/hello_flask/.idea/hello_flask.iml" filepath="$PROJECT_DIR$/../higher-lower-flask/hello_flask/.idea/hello_flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../higher-lower-flask/.idea/higher-lower-flask.iml" filepath="$PROJECT_DIR$/../higher-lower-flask/.idea/higher-lower-flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../higher-lower-flask/jinja_works/.idea/jinja_works.iml" filepath="$PROJECT_DIR$/../higher-lower-flask/jinja_works/.idea/jinja_works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_projects/kanaye_knote/.idea/kanaye_knote.iml" filepath="$PROJECT_DIR$/../api_projects/kanaye_knote/.idea/kanaye_knote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nato_phonetic_alphabet/.idea/nato_phonetic_alphabet.iml" filepath="$PROJECT_DIR$/../nato_phonetic_alphabet/.idea/nato_phonetic_alphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pandas_project/.idea/pandas_project.iml" filepath="$PROJECT_DIR$/../pandas_project/.idea/pandas_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI_works/pomodoro/.idea/pomodoro.iml" filepath="$PROJECT_DIR$/../GUI_works/pomodoro/.idea/pomodoro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI_works/question_app_GUI/.idea/question_app_GUI.iml" filepath="$PROJECT_DIR$/../GUI_works/question_app_GUI/.idea/question_app_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz project/.idea/quiz project.iml" filepath="$PROJECT_DIR$/../quiz project/.idea/quiz project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../higher-lower-flask/rendering_html/.idea/rendering_html.iml" filepath="$PROJECT_DIR$/../higher-lower-flask/rendering_html/.idea/rendering_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../snake game/.idea/snake game.iml" filepath="$PROJECT_DIR$/../snake game/.idea/snake game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlworks/.idea/sqlworks.iml" filepath="$PROJECT_DIR$/../sqlworks/.idea/sqlworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../api_projects/stock_managing/.idea/stock_managing.iml" filepath="$PROJECT_DIR$/../api_projects/stock_managing/.idea/stock_managing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../turtle_graphics/.idea/turtle_graphics.iml" filepath="$PROJECT_DIR$/../turtle_graphics/.idea/turtle_graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web_development_projects/.idea/web_development_projects.iml" filepath="$PROJECT_DIR$/../web_development_projects/.idea/web_development_projects.iml" />
+    </modules>
+  </component>
+</project>
